@@ -1,0 +1,6 @@
+{
+  "short_name": "Todo List",
+  "name": "React JS Todo List",
+  "icons": [],
+  "start_url": "./index.html"
+}

@@ -1,0 +1,12 @@
+.ui.fluid.input > input {
+    font-size: 18px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.ui.fluid.input > button {
+    color: white;
+    background-color: lightcoral;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}

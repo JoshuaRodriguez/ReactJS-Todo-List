@@ -1,0 +1,24 @@
+.ui.segment > p {
+    display: inline-block;
+    font-size: 18px;
+    width: 309px;
+    margin: 0;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.complete-edit-erase-container {
+    float: right;
+    height: 100%;
+    margin-top: 3px;
+}
+
+.complete-edit-erase-icons {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+}
+
+.crossed-out-todo {
+    text-decoration: line-through;
+}
